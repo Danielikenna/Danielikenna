@@ -6,12 +6,12 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who thrives on b
 
 ### 🔧 Tech Stack & Skills
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL
+- **Backend:** Python, MySQL
 - **Dev Tools:** Git, GitHub, Docker, VS Code
 - **Others:** REST APIs, GraphQL, WebSockets
-- **Community:** Developer Relations, Community Building, Event Planning
+  
 
-### 🚀 What I'm About
+### 🚀About Me
 - I build full-stack applications with real-world impact
 - I support and grow developer communities
 - I believe in continuous learning and collaboration
@@ -20,10 +20,10 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who thrives on b
 I graduated from the **Learnable** program by **Genesys**, where I honed my software development skills and gained hands-on experience working on real projects in a fast-paced, team-oriented environment.
 
 ### 📫 Let's Connect!
-- Twitter: [@codeNiel_](https://twitter.com/codeNiel_)
-- LinkedIn: [Obasi Ikenne](https://www.linkedin.com/in/obasiikenne/)
+- Twitter: [@codeNiel_](https://twitter.com/code_niel_)
+- LinkedIn: [codeNiel](https://www.linkedin.com/in/codeNiel/)
 - Portfolio: [codeNiel.dev](https://codeNiel.dev) <!-- Optional, if you have one -->
-- Email: obasiikenne@example.com <!-- Replace with your real email -->
+- Email: ikennaobasi20@gmail.com<!-- Replace with your real email -->
 
 ---
 
