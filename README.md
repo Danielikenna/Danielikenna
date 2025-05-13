@@ -7,8 +7,8 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who thrives on b
 ### 🔧 Tech Stack & Skills
 - **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
 - **Backend:** Python, MySQL
-- **Dev Tools:** Git, GitHub, Docker, VS Code
-- **Others:** REST APIs, GraphQL, WebSockets
+- **Dev Tools:** Git, GitHub, VS Code
+  
   
 
 ### 🚀About Me
