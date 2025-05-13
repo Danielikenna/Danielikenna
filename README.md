@@ -22,7 +22,7 @@ I graduated from the **Learnable** program by **Genesys**, where I honed my soft
 ### 📫 Let's Connect!
 - Twitter: [@codeNiel_](https://twitter.com/code_niel)
 - LinkedIn: [codeNiel](https://www.linkedin.com/in/codeNiel/)
-- Portfolio: [codeNiel.dev](https://codeNiel.dev) <!-- Optional, if you have one -->
+  
 - Email: ikennaobasi20@gmail.com<!-- Replace with your real email -->
 
 ---
