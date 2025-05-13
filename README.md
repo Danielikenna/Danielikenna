@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Developer** who thrives on b
 I graduated from the **Learnable** program by **Genesys**, where I honed my software development skills and gained hands-on experience working on real projects in a fast-paced, team-oriented environment.
 
 ### 📫 Let's Connect!
-- Twitter: [@codeNiel_](https://twitter.com/code_niel_)
+- Twitter: [@codeNiel_](https://twitter.com/code_niel)
 - LinkedIn: [codeNiel](https://www.linkedin.com/in/codeNiel/)
 - Portfolio: [codeNiel.dev](https://codeNiel.dev) <!-- Optional, if you have one -->
 - Email: ikennaobasi20@gmail.com<!-- Replace with your real email -->
